@@ -1,0 +1,956 @@
+/*
+Title:
+Brief Description:
+Author: Alexandre Timothy A. Alvarez
+        Genesis Lumaban
+Modified: August 18, 2014
+*/
+
+#include<stdio.h>
+#include<stdlib.h>
+
+void GENERAL(){
+      printf("Year Selection:\n");
+      printf("A. First Year \n");
+      printf("B. Second Year \n");
+      printf("C. Third Year \n");
+      printf("D. Fourth Year \n");
+      printf("E. Fifth Year \n");
+      printf("Q. Close program \n");
+      printf("Enter selection: \n");
+     }
+void FIRST(){
+     printf("10. FITWELL \n");
+     printf("11. PERSEF1 \n");
+     printf("12. ENGALG1 \n");
+     printf("13. ENGTRIG \n");
+     printf("14. ENGLCOM \n");
+     printf("15. CHEMONE \n");
+     printf("16. LBYCH11 \n");
+     printf("17. SOCTEC1 \n");
+     printf("18. FTSPORT \n");
+     printf("19. ANAGEOM \n");
+     printf("20. SOLIMEN \n");
+     printf("21. DIFFCAL \n");
+     printf("22. ENGLRES \n");
+     printf("23. TREDONE \n");
+     printf("24. GRAPONE \n");
+     printf("25. APPCHEN \n");
+     printf("26. FTDANCE \n");
+     printf("27. INTECAL \n");
+     printf("28. ENGALG2 \n");
+     printf("29. SPEECOM \n");
+     printf("30. FILKOMU \n");
+     printf("31. KASPIL1 \n");
+     printf("32. ENGPHY1 \n");
+     printf("33. LBYPH11 \n");
+     printf("000. Return to Year selection\n");
+     printf("001. Exit Program \n");
+     printf("Enter your decision: \n");
+     }
+void FITWELL(){
+     printf("Course: FITWELL \n");
+     FIRST();
+     }
+void PERSEF1(){
+     
+     }
+void ENGALG1(){
+     
+     }
+void ENGTRIG(){
+     
+     }
+void ENGLCOM(){
+     
+     }
+void CHEMONE(){
+     
+     }
+void LBYCH11(){
+     
+     }
+void SOCTEC1(){
+     
+     }
+void FTSPORT(){
+     
+     }
+void ANAGEOM(){
+     
+     }
+void SOLIMEN(){
+     
+     }
+void DIFFCAL(){
+      printf("Course Code: DIFFCAL \n\n");
+      printf("Course: Differential Calculus \n\n");
+      printf("Course Units: 4 \n\n");
+      printf("Course Description: This course (DIFFCAL- DIFFERENTIAL CALCULUS) includes the \n"); 
+      printf("                    basic concepts of Calculus such as limits, continuity and \n");
+      printf("                    differentiability of functions. It aims to develop in the \n");
+      printf("                    students the skills of differentiation of algebraic and \n");
+      printf("                    transcendental functions involving one or more variables. \n");
+      printf("                    Applications of differential calculus to problems on \n");
+      printf("                    optimization, rates of change, related rates, tangent and \n");
+      printf("                    normal lines, and approximations are also discussed. It \n");
+      printf("                    also includes partial differentiation and transcendental \n");
+      printf("                    curve tracing. \n\n");
+      printf("Pre-requisitite: College Algebra for Engineering (ENGALG1) \n");
+      printf("                 Plane and Spherical Trigonometry for Engineering (ENGTRIG) \n");
+      printf("                 Analytic Geometry (ANAGEOM) \n\n");
+      printf("ELGA: Critical and Creative Thinker \n");
+      printf("      Effective Communicator \n");
+      printf("      Reflective Life Long Learner \n");
+      printf("      Service-driven citizen \n\n");
+      printf("Passing Mark: 55% \n\n");
+      printf("Prerequisite to: Integral Calculus (INTECAL) \n");
+      printf("                 Engineering Physics 1 (ENGPHY1) \n\n");
+      FIRST();
+      }
+void ENGLRES(){
+     
+     }
+void TREDONE(){
+     
+     }
+void GRAPONE(){
+     
+     }
+void APPCHEN(){
+     
+     }
+void FTDANCE(){
+     
+     }
+void INTECAL(){
+     
+     }
+void ENGALG2(){
+     
+     }
+void SPEECOM(){
+     
+     }
+void FILKOMU(){
+     printf("Course Code: FILKOMU\n\n");
+     printf("Course: Komunikasyon sa Filipinolohiya\n\n");
+     printf("Course Units: 3\n\n");
+     printf("Course Description: Ang kursong FILKOMU o Komunikasyon sa Filipinolohiya ay\n");
+     printf("                    nakapokus sa paggamit ng wika sa higit na mataas na antas\n");
+     printf("                    sa limang makrong kasanayan sa pagtalakay ng Araling \n");
+     printf("                    Pilipinas (Philippine Studies) sa pagkilala at pag-unawa\n");
+     printf("                    sa sarili at sa pambansang identidad, kultura, at lipunan.\n");
+     printf("                    Pangkalahatang saklaw ng kurso ang pagtatamo ng bawat \n");
+     printf("                    Lasalyanong estudyante ng kompetens sa komunikasyon sa \n");
+     printf("                    limang diskors na may kontent ng Filipinolohiya sa \n");
+     printf("                    larangang akademik.\n\n");
+     printf("Pre-requisitite: None\n\n");
+     printf("ELGA: 	Mapanuri at malikhaing manlilikha ng karunungan (Critical and \n");
+     printf("       creative knowledge producers)\n");
+     printf("       May pananagutang panlipunan at kolaboratibong mamamayan \n");
+     printf("       (Socially responsive and collaborative citizen)\n");
+     printf("       May prinsipyong moral at pinunong inspirado ng pananampalataya \n");
+     printf("       (Morally principled and faith-inspired leader)\n");
+     printf("       Komunikador na sensitibo sa dibersidad \n");
+     printf("       (Diversity-sensitive communicator)\n");
+     printf("       May kakayahang propesyunal (Competent professional)\n");
+     printf("Passing Mark: 70%\n");
+     printf("Prerequisite to: Pagbasa at Pagsulat sa Iba't - Ibang Displina (FILDLAR)\n");
+     printf("                 Kasaysayan ng Pilipinas (KASPIL2)\n\n");
+     FIRST();
+     }
+void KASPIL1(){
+     
+     }
+void ENGPHY1(){
+     printf("Course Code: ENGPHY1 \n\n");
+     printf("Coure: Physics Fundamentals for Engineering 1 \n\n");
+     printf("Course Units: 3 \n\n");
+     printf("Course Description: This is a General Education (GE) course on Physics designed\n");
+     printf("                    for students in the College of Engineering (COE). This \n");
+     printf("                    course is a study of the conceptual foundations of \n");
+     printf("                    Newtonian mechanics. In examining Newton's three laws \n");
+     printf("                    of motion and their relevant consequences, vector methods  \n");
+     printf("                    as well as the basic concepts of calculus will be used. \n\n");
+     printf("ELGA: Effective Communicator \n");
+     printf("      Service-Driven Citizen \n");
+     printf("      Critical and Creative Thinker \n");
+     printf("      Lifelong Learner \n\n");
+     printf("Passing Mark: 50% \n\n");
+     printf("Prerequisite to: Engineering Physics 2 (ENGPHY2) \n\n");
+     FIRST();
+     }
+void LBYPH11(){
+     printf("Course Code: LBYCH11 \n\n");
+     printf("Course: GENERAL CHEMISTRY LABORATORY 1 FOR ENGINEERING\n\n");
+     printf("Course Units: 1\n\n");
+     printf("Course Description: A course developing basic laboratory skills. It includes\n");
+     printf("                    experiments and exercises illustrating the concepts covered\n");
+     printf("                    in General Chemistry 1.\n\n");
+     printf("Pre-requisitite: None\n\n");
+     printf("ELGA: 	Critical and Creative Thinker\n");
+     printf("       Effective Communicator\n");
+     printf("       Lifelong Learner\n");
+     printf("       Service-Driven Citizen\n\n");
+     printf("Passing Mark: 60%\n\n");
+     printf("Prerequisite to: None\n\n");
+     FIRST();
+     }
+void SECOND(){
+     printf("50. LBYMEEA \n");
+     printf("51. STATICS \n");
+     printf("52. ENGIANA \n");
+     printf("53. ENGPHY2 \n");
+     printf("54. LBYPH12 \n");
+     printf("55. ANACHEM \n");
+     printf("56. LBYCH26 \n");
+     printf("57. FILDLAR \n");
+     printf("58. LBYEC71 \n");
+     printf("59. CHENMAT \n");
+     printf("60. ENGSTAT \n");
+     printf("61. CHEORG1 \n");
+     printf("62. CHECAL1 \n");
+     printf("63. ELECHEN \n");
+     printf("64. LBYEC78 \n");
+     printf("69. DYNAMIC \n");
+     printf("70. LBYCH63 \n");
+     printf("71. FTTEAMS \n");
+     printf("72. TREDTWO \n");
+     printf("73. HUMAART \n");
+     printf("74. CHEORG2 \n");
+     printf("75. INDSCHE \n");
+     printf("76. LBYCHEI \n");
+     printf("77. PHYPRN1 \n");
+     printf("78. LBYCHEA \n");
+     printf("79. ENVIRON \n");
+     printf("80. ENGSAFE \n");
+     printf("81. LBYEC72 \n");
+     printf("002. Return to Year selection\n");
+     printf("003. Exit Program \n");
+     printf("Enter your decision: \n");
+     }
+void LBYMEEA(){
+     
+     }
+void STATICS(){
+     
+     }
+void ENGIANA(){
+     
+     }
+void ENGPHY2(){
+     
+     }
+void LBYPH12(){
+     
+     }
+void ANACHEM(){
+     
+     }
+void LBYCH26(){
+     
+     }
+void FILDLAR(){
+     printf("Course Code: FILDLAR \n\n");
+     printf("Course: Filipino: Pagbasa at Pagsulat sa Iba't Ibang Disiplina at Larangan \n\n");
+     printf("Course Units: 3 \n\n");
+     printf("Course Description: Ang kursong FILDLAR (Filipino: Pagbasa at Pagsulat sa Iba't\n");
+     printf("                    Ibang Disiplina at Larangan) ay nakapokus sa paglinang ng \n");
+     printf("                    mga kasanayan sa analitikal at kritikal na pagbasa at \n");
+     printf("                    pagsulat para sa pangangailangang akademik at komunikasyong\n");
+     printf("                    pampropesyunal na nagsasaalang-alang sa iba't ibang \n");
+     printf("                    register ng wika. Pag-aaralan ang mga teknik sa pagsasalin,\n");
+     printf("                    at estratehiya sa pagbasa na lampas sa komprehensyong \n");
+     printf("                    literal gamit ang mga genre na nakasulat (maging naririnig/\n");
+     printf("                    napapanood) na tekstong disiplinal o buha't sa iba't ibang\n");
+     printf("                    larangan ng gamit ng wika - humanidades, agham panlipunan \n");
+     printf("                    at komunikasyon, at agham at teknolohiya, at propesyon. \n");
+     printf("                    Magsisilbing modelo ang mga babasahin sa pagsulat ng mga \n");
+     printf("                    iskolarling sanaysay at riserts. \n\n");
+     printf("Pre-requisitite: Komunikasyon sa Filipinohiya (FILKOMU)\n\n");
+     printf("ELGA: Mapanuri at malikhaing manlilikha ng karunungan \n");
+     printf("      May pananagutang panlipunan at kolaboratibong mamamayan\n");
+     printf("      May prinsipyong moral at pinunong inspirado ng pananampalataya\n");
+     printf("      Komunikador na sensitibo sa dibersidad\n");
+     printf("      May kakayahang propesyunal\n\n");
+     printf("Passing Mark: 70%\n\n");
+     printf("Prerequisite to: None\n\n");
+     SECOND();
+     }
+void LBYEC71(){
+     printf("Course Code: LBYEC71 \n\n");
+     printf("Course: Computer Technology Fundamentals for Engineering Students\n\n");
+     printf("Course Units: 1\n\n");
+     printf("Course Description: This is an introductory course to computer software \n");
+     printf("                    and computer technology. It covers topics on office \n");
+     printf("                    productivity, web-authoring and engineering \n");
+     printf("                    problem-solving methodology. The students will have \n");
+     printf("                    hands-on experience in applying the concepts discussed\n");
+     printf("                    in the course to engineering applications. In this course,\n");
+     printf("                    students are also introduced to algorithm development in \n");
+     printf("                    preparation for more advanced computer programming courses.\n\n");
+     printf("Pre-requisitite: None\n\n");
+     printf("ELGA: 	Critical and Creative Thinker\n");
+     printf("       Effective Communicator\n");
+     printf("       Reflective Lifelong Learner\n");
+     printf("       Competent Professional\n\n");
+     printf("Passing Mark: 70%\n\n");
+     printf("Prerequisite to: LBYEC72\n\n");
+     FIRST();
+     }
+void CHENMAT(){
+     
+     }
+void ENGSTAT(){
+     
+     }
+void CHEORG1(){
+     
+     }
+void CHECAL1(){
+     
+     }
+void ELECHEN(){
+     
+     }
+void LBYEC78(){
+     
+     }
+void DYNAMIC(){
+     
+     }
+void LBYCH63(){
+     
+     }
+void FTTEAMS(){
+     
+     }
+void TREDTWO(){
+     
+     }
+void HUMAART(){
+     
+     }
+void CHEORG2(){
+     
+     }
+void INDSCHE(){
+     
+     }
+void LBYCHEI(){
+     
+     }
+void PHYPRN1(){
+     
+     }
+void LBYCHEA(){
+     
+     }
+void ENVIRON(){
+     
+     }
+void ENGSAFE(){
+     printf("Course Code: ENGSAFE \n\n");
+     printf("Course: Safety Management for Engineering \n\n");
+     printf("Course Units: 1 \n\n");
+     printf("Course Description: This is a basic course on safety management that includes \n");
+     printf("                    evolution of saftey management, safety terminology, safety \n");
+     printf("                    programs adopted by high risk industries, hazards in the \n");
+     printf("                    construction, manufacturing, gas and power plants and other\n");
+     printf("                    engineering industries and to prevent or mitigate them, \n");
+     printf("                    techniques in hazard identification and analysis in \n");
+     printf("                    workplaces, off - the - job safety, disaster prevention \n");
+     printf("                    and mitigation, and accident investigation. \n\n");
+     printf("Pre-requisitite: None \n\n");
+     printf("ELGA: Become an effective communicator \n");
+     printf("      Become a service - driven citizen \n");
+     printf("      Become a creative and critical thinker \n\n");
+     printf("Passing Mark: 60% \n\n");
+     printf("Prerequisite to: None \n\n");
+     SECOND();
+     }
+void LBYEC72(){
+     
+     }
+void THIRD(){
+     printf("100. HUMALIT (THIS IS NOT SPARTA!!!) \n");
+     printf("101. SOCTEC2 \n");
+     printf("102. CHECAL2 \n");
+     printf("103. ECONCHE \n");
+     printf("104. CHETHE1 \n");
+     printf("105. PHYPRN2 \n");
+     printf("106. LBYCHEB \n");
+     printf("107. KASPIL2 \n");
+     printf("108. MERECHE \n");
+     printf("109. MEDEFOR \n");
+     printf("110. INPRCHE \n");
+     printf("111. TRAPHE1 \n");
+     printf("112. CHETHE2 \n");
+     printf("113. ENGBIO1 \n");
+     printf("114. CHETHSA \n");
+     printf("115. ELECHE1 \n");
+     printf("116. MANAGEN \n");
+     printf("117. TRAPHE2 \n");
+     printf("118. CHEREKN \n");
+     printf("119. LBYCHED \n");
+     printf("120. PARTECH \n");
+     printf("004. Return to Year selection\n");
+     printf("005. Exit Program \n");
+     printf("Enter your decision: \n");
+     }
+void HUMALIT(){
+     
+     }
+void SOCTEC2(){
+     printf("Course Code: SOCTEC2 \n\n");
+     printf("Course: SCIENCE, TECHNOLOGY AND SOCIETY 2\n\n");
+     printf("Course Units: 3\n\n");
+     printf("Course Description: Science, Technology, and Society 2 (SOCTEC2) \n");
+     printf("                    focuses on the impact of science on society. It\n");
+     printf("                    examines social institutions and organizations\n");
+     printf("                    from the macro perspective. Among the issues \n");
+     printf("                    discussed are the influence and consequences \n");
+     printf("                    of science and technology on various aspects\n");
+     printf("                    of society, such as the environment, the \n");
+     printf("                    economy, modernization and globalization,\n");
+     printf("                    social and power relations, and governance.\n\n");
+     printf("Pre-requisitite: SCIENCE, TECHNOLOGY AND SOCIETY 1 (SOCTEC1)\n\n");
+     printf("ELGA: 	Competent professional\n");
+     printf("       Critical and creative knowledge producer\n");
+     printf("       Diversity-sensitive communicator\n");
+     printf("       Socially responsive and collaborative citizen\n\n");
+     printf("Passing Mark: ?%\n\n");
+     printf("Prerequisite to: None\n\n");
+     FIRST();
+     }
+void CHECAL2(){
+     
+     }
+void ECONCHE(){
+     
+     }
+void CHETHE1(){
+     
+     }
+void PHYPRN2(){
+     
+     }
+void LBYCHEB(){
+     
+     }
+void KASPIL2(){
+     
+     }
+void MERECHE(){
+     
+     }
+void MEDEFOR(){
+     
+     }
+void INPRCHE(){
+     
+     }
+void TRAPHE1(){
+     
+     }
+void CHETHE2(){
+     
+     }
+void ENGBIO1(){
+     
+     }
+void CHETHSA(){
+     
+     }
+void ELECHE1(){
+     
+     }
+void MATECHE(){
+     
+     }
+void MANAGEN(){
+     
+     }
+void TRAPHE2(){
+     
+     }
+void CHEREKN(){
+     
+     }
+void LBYCHED(){
+     
+     }
+void PARTECH(){
+     
+     }
+void FOURTH(){
+     printf("150. TREDTRI \n");
+     printf("151. GREATWK \n");
+     printf("152. LBYCHEJ \n");
+     printf("153. CHETHSB \n");
+     printf("154. TRAPHE3 \n");
+     printf("155. SEPAPRO \n");
+     printf("156. DYNACON \n");
+     printf("157. PERSEF2 \n");
+     printf("158. ELECHE2 \n");
+     printf("159. CHETHSC \n");
+     printf("160. DESCHE1 \n");
+     printf("161. LBYCHEE \n");
+     printf("162. ENGBIO2 \n");
+     printf("163. SEMFILA \n");
+     printf("164. LBYCHEK \n");
+     printf("165. SAFEPRO \n");
+     printf("166. QUANCHE \n");
+     printf("167. LASARE3 \n");
+     printf("168. IPERSEF \n");
+     printf("169. TREDFOR \n");
+     printf("170. INTFILO \n");
+     printf("171. ELECHE3 \n");
+     printf("172. DESCHE2 \n");
+     printf("173. INWACON \n");
+     printf("174. INTECHE \n");
+     printf("175. LBYCHEF \n");
+     printf("006. Return to Year selection\n");
+     printf("007. Exit Program \n");
+     printf("Enter your decision: \n");
+     printf(" \n");
+     }
+void TREDTRI(){
+     
+     }
+void GREATWK(){
+     
+     }
+void LBYCHEJ(){
+     
+     }
+void CHETHSB(){
+     
+     }
+void TRAPHE3(){
+     
+     }
+void SEPAPRO(){
+     
+     }
+void DYNACON(){
+     
+     }
+void PERSEF2(){
+     
+     }
+void ELECHE2(){
+     
+     }
+void CHETHSC(){
+     
+     }
+void DESCHE1(){
+     
+     }
+void LBYCHEE(){
+     
+     }
+void ENGBIO2(){
+     
+     }
+void SEMFILA(){
+     
+     }
+void LBYCHEK(){
+     
+     }
+void SAFEPRO(){
+     
+     }
+void QUANCHE(){
+     
+     }
+void IPERSEF(){
+     
+     }
+void TREDFOR(){
+     
+     }
+void INTFILO(){
+     
+     }
+void ELECHE3(){
+     
+     }
+void DESCHE2(){
+     
+     }
+void INWACON(){
+     
+     }
+void INTECHE(){
+     
+     }
+void LBYCHEF(){
+     
+     }
+
+main(){
+{    
+GENERAL();
+}
+char selection;
+scanf("%c", &selection);
+   switch(selection)
+   {
+    case 'a':
+    case 'A':
+         FIRST();
+         
+         int a;
+         scanf("%d", &a);
+         switch(a)
+         case 10:
+              FITWELL();
+              FIRST();
+              getchar();
+         case 11:
+              PERSEF1();
+              getchar();
+         case 12:
+              ENGALG1();
+              getchar();
+         case 13:
+              ENGTRIG();
+              getchar();
+         case 14:
+              ENGLCOM();
+              getchar();
+         case 15:
+              CHEMONE();
+              getchar();
+         case 16:
+              LBYCH11();
+              getchar();
+         case 17:
+              SOCTEC1();
+              getchar();
+         case 18:
+              FTSPORT();
+              getchar();
+         case 19:
+              ANAGEOM();
+              getchar();
+         case 20:
+              SOLIMEN();
+              getchar();
+         case 21:
+              DIFFCAL();
+              getchar();
+         case 22:
+              ENGLRES();
+              getchar();
+         case 23:
+              TREDONE();
+              getchar();
+         case 24:
+              GRAPONE();
+              getchar();
+         case 25:
+              APPCHEN();
+              getchar();
+         case 26:
+              FTDANCE();
+              getchar();
+         case 27:
+              INTECAL();
+              getchar();
+         case 28:
+              ENGALG2();
+              getchar();
+         case 29:
+              SPEECOM();
+              getchar();
+         case 30:
+              FILKOMU();
+              getchar();
+         case 31:
+              KASPIL1();
+              getchar();
+         case 32:
+              ENGPHY1();
+              getchar();
+         case 33:
+              LBYPH11();
+              getchar();
+         case 000:
+              return main();
+         case 001:
+              break;
+   
+    case 'b':
+    case 'B':
+         SECOND();
+         int b;
+         scanf("%d", &b);
+         switch(b)
+         case 50:
+              LBYMEEA();
+              getchar();
+         case 51:
+              STATICS();
+              getchar();
+         case 52:
+              ENGIANA();
+              getchar();
+         case 53:
+              ENGPHY2();
+              getchar();
+         case 54:
+              LBYPH12();
+              getchar();
+         case 55:
+              ANACHEM();
+              getchar();
+         case 56:
+              LBYCH26();
+              getchar();
+         case 57:
+              FILDLAR();
+              getchar();
+         case 58:
+              LBYEC71();
+              getchar();
+         case 59:
+              CHENMAT();
+              getchar();
+         case 60:
+              ENGSTAT();
+              getchar();
+         case 61:
+              CHEORG1();
+              getchar();
+         case 62:
+              CHECAL1();
+              getchar();
+         case 63:
+              ELECHEN();
+              getchar();
+         case 64:
+              LBYEC78();
+              getchar();
+         case 69:
+              DYNAMIC();
+              getchar();
+         case 70:
+              LBYCH63();
+              getchar();
+         case 71:
+              FTTEAMS();
+              getchar();
+         case 72:
+              TREDTWO();
+              getchar();
+         case 73:
+              HUMAART();
+              getchar();
+         case 74:
+              CHEORG2();
+              getchar();
+         case 75:
+              INDSCHE();
+              getchar();
+         case 76:
+              LBYCHEI();
+              getchar();
+         case 77:
+              PHYPRN1();
+              getchar();
+         case 78:
+              LBYCHEA();
+              getchar();
+         case 79:
+              ENVIRON();
+              getchar();
+         case 80:
+              ENGSAFE();
+              getchar();
+         case 82:
+              LBYEC72();
+              getchar();
+         case 002:
+              return main();
+         case 003:
+              break;
+              
+    case 'c':
+    case 'C':
+         THIRD();
+         int c;
+         scanf("%d", &c);
+         switch(c)
+         case 100:
+              HUMALIT();
+              getchar();
+         case 101:
+              SOCTEC2();
+              getchar();
+         case 102:
+              CHECAL2();
+              getchar();
+         case 103:
+              ECONCHE();
+              getchar();
+         case 104:
+              CHETHE1();
+              getchar();
+         case 105:
+              PHYPRN2();
+              getchar();
+         case 106:
+              LBYCHEB();
+              getchar();
+         case 107:
+              KASPIL2();
+              getchar();
+         case 108:
+              MERECHE();
+              getchar();
+         case 109:
+              MEDEFOR();
+              getchar();
+         case 110:
+              INPRCHE();
+              getchar();
+         case 111:
+              TRAPHE1();
+              getchar();
+         case 112:
+              CHETHE2();
+              getchar();
+         case 114:
+              ENGBIO1();
+              getchar();
+         case 115:
+              CHETHSA();
+              getchar();
+         case 116:
+              ELECHE1();
+              getchar();
+         case 117:
+              MATECHE();
+              getchar();
+         case 118:
+              MANAGEN();
+              getchar();
+         case 119:
+              TRAPHE2();
+              getchar();
+         case 120:
+              CHEREKN();
+              getchar();
+         case 121:
+              LBYCHED();
+              getchar();
+         case 122:
+              PARTECH();
+              getchar();
+         case 004:
+              return main();
+         case 005:
+              break;
+         getchar();
+
+    case 'd':
+    case 'D':
+         FOURTH();
+         int d;
+         scanf("%d", &d);
+         switch(d)
+         case 150:
+              TREDTRI();
+              getchar();
+         case 151:
+              GREATWK();
+              getchar();
+         case 152:
+              LBYCHEJ();
+              getchar();
+         case 153:
+              CHETHSB();
+              getchar();
+         case 154:
+              TRAPHE3();
+              getchar();
+         case 155:
+              SEPAPRO();
+              getchar();
+         case 156:
+              DYNACON();
+              getchar();
+         case 157:
+              PERSEF2();
+              getchar();
+         case 158:
+              ELECHE2();
+              getchar();
+         case 159:
+              CHETHSC();
+              getchar();
+         case 160:
+              DESCHE1();
+              getchar();
+         case 161:
+              LBYCHEE();
+              getchar();
+         case 162:
+              ENGBIO2();
+              getchar();
+         case 163:
+              SEMFILA();
+              getchar();
+         case 164:
+              LBYCHEK();
+              getchar();
+         case 165:
+              SAFEPRO();
+              getchar();
+         case 166:
+              QUANCHE();
+              getchar();
+         case 167:
+              IPERSEF();
+              getchar();
+         case 168:
+              TREDFOR();
+              getchar();
+         case 169:
+              INTFILO();
+              getchar();
+         case 170:
+              ELECHE3();
+              getchar();
+         case 171:
+              DESCHE2();
+              getchar();
+         case 172:
+              INWACON();
+              getchar();
+         case 173:
+              INTECHE();
+              getchar();
+         case 174:
+              LBYCHEF();
+              getchar();
+         case 006:
+              return main();
+         case 007:
+              break;
+         getchar();
+         
+    case 'q':
+    case 'Q':
+         break;
+         
+    default:
+        printf("Invalid Option \n");
+    }
+    system("pause");
+}
